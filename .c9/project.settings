@@ -2,7 +2,11 @@
     "ace": {
         "@tabSize": 2
     },
+    "build": {
+        "@saveall": true
+    },
     "extensions": {
+        "@aws.profile": "profile:default",
         "@json.schemas": []
     },
     "general": {
